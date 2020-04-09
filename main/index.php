@@ -20,6 +20,7 @@ $name = $_SESSION['username'];
 <body>
     <div class="container">
         <a name="" id="" class="btn btn-danger" href="../logout.php" role="button">LOGOUT</a>
+        <a name="" id="" class="btn btn-primary" href="./todo.php" role="button">TO DO APP</a>
         <form method="POST" action="changePassword.php">
             <div class="form-group">
                 <br>
